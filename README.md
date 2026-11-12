@@ -1,6 +1,6 @@
 # Applied AI Module — Computer Vision and NLP
 
-Four educational notebooks from a module sponsored by Camelot, as described by the contributor. This is a student laboratory collection, not an official Camelot product or an endorsement by the sponsor.
+Four educational notebooks from a module sponsored by Camelot. This is a student laboratory collection, not an official Camelot product or an endorsement by the sponsor.
 
 ## Contents
 
